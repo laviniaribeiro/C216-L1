@@ -2,7 +2,7 @@
 
 Estrutura de projeto:
 - src/main.py
-- src/services.py
+- src/Dockerfile
 
 
 Funcionalidades:
